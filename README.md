@@ -16,6 +16,8 @@ This document provides an interpretation of the dataset analyzed using Python. I
 
 ## 2. Count of Products by Category
 ![Count of Products by Category](image2.png)
+![image](https://github.com/user-attachments/assets/706ef249-b8c3-492e-919b-9433016d0e7a)
+
 
 ### Interpretation:
 - This bar chart displays the number of products available in each category.
@@ -25,6 +27,8 @@ This document provides an interpretation of the dataset analyzed using Python. I
 
 ## 3. Unit Price USD by Category
 ![Unit Price by Category](image3.png)
+![image](https://github.com/user-attachments/assets/6007b504-9e9f-4ff0-a021-a238dd385a0d)
+
 
 ### Interpretation:
 - A box plot is used to show the distribution of unit prices within each product category.
@@ -34,6 +38,8 @@ This document provides an interpretation of the dataset analyzed using Python. I
 
 ## 4. Unit Cost USD vs. Unit Price USD
 ![Unit Cost vs. Unit Price](image4.png)
+![Uploading image.png…]()
+
 
 ### Interpretation:
 - A scatter plot representing the relationship between unit cost and unit price.
@@ -43,6 +49,8 @@ This document provides an interpretation of the dataset analyzed using Python. I
 
 ## 5. Orders Over Time
 ![Orders Over Time](image5.png)
+![Uploading image.png…]()
+
 
 ### Interpretation:
 - A time-series plot showing the number of orders over time.
