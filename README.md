@@ -5,6 +5,8 @@ This document provides an interpretation of the dataset analyzed using Python. I
 
 ## 1. Distribution of Unit Cost USD
 ![Distribution of Unit Cost USD](image1.png)
+![image](https://github.com/user-attachments/assets/1852c534-6baa-490e-8a09-9d660fa9c4fc)
+
 
 ### Interpretation:
 - The histogram shows the distribution of unit costs across different products.
